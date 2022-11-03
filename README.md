@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MatheusMax01
+- 👋 Hi, I’m Matheus Max
 - 👀 I’m interested in: QA,UX/UI,JS,CSS,Pyhon,Html...
 - 🌱 I’m currently learning ADS in SPtech school
 - 📫 How to reach me: matheus.lima@sptech.school
